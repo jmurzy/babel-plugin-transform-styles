@@ -8,17 +8,15 @@
   "homepage": "https://github.com/jmurzy/babel-plugin-transform-styles",
   "keywords": [
     "babel",
-    "webpack",
-    "file-loader",
+    "react",
+    "react-native",
     "babel-plugin",
-    "asset",
-    "require",
+    "stylesheet",
+    "css",
+    "style",
     "import",
     "hook",
-    "plugin",
-    "universal",
-    "isomorphic",
-    "asset-require-hook"
+    "plugin"
   ],
   "contributors": [
     {
