@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-styles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Auto-generates React StyleSheets from import statements of CSS files",
   "main": "lib/index.js",
   "author": "Jake Murzy <jake@murzy>",
@@ -41,7 +41,7 @@
     "url": "https://github.com/jmurzy/babel-plugin-transform-styles/issues"
   },
   "dependencies": {
-    "parse-css": "^0.1.0",
+    "css-parse": "^2.0.0",
     "to-camel-case": "^1.0.0"
   },
   "devDependencies": {
