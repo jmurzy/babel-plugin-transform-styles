@@ -31,7 +31,7 @@ var styles = require('react-native').StyleSheet.create({
     "marginRight": 5,
     "marginBottom": 10,
     "marginLeft": 5,
-    "borderBottomWidth": StyleSheet.hairlineWidth,
+    "borderBottomWidth": require('react-native').StyleSheet.hairlineWidth,
     "shadowOpacity": 4,
     "shadowOffset": {
       "width": 2,
@@ -61,7 +61,7 @@ var _styles = require('react-native').StyleSheet.create({
     "marginRight": 5,
     "marginBottom": 10,
     "marginLeft": 5,
-    "borderBottomWidth": StyleSheet.hairlineWidth,
+    "borderBottomWidth": require('react-native').StyleSheet.hairlineWidth,
     "shadowOpacity": 4,
     "shadowOffset": {
       "width": 2,
@@ -100,7 +100,7 @@ var _styles = require('react-native').StyleSheet.create({
     "marginRight": 5,
     "marginBottom": 10,
     "marginLeft": 5,
-    "borderBottomWidth": StyleSheet.hairlineWidth,
+    "borderBottomWidth": require('react-native').StyleSheet.hairlineWidth,
     "shadowOpacity": 4,
     "shadowOffset": {
       "width": 2,
@@ -146,7 +146,7 @@ var _styles = require('react-native').StyleSheet.create({
     "marginRight": 5,
     "marginBottom": 10,
     "marginLeft": 5,
-    "borderBottomWidth": StyleSheet.hairlineWidth,
+    "borderBottomWidth": require('react-native').StyleSheet.hairlineWidth,
     "shadowOpacity": 4,
     "shadowOffset": {
       "width": 2,

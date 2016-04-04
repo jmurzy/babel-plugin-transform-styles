@@ -7,7 +7,7 @@ const defaultOptions = {}
 const RULE = 'rule'
 const DECLARATION = 'declaration'
 const styleSheetConstants = {
-  'hairline-width': 'StyleSheet.hairlineWidth'
+  'hairline-width': 'require(\'react-native\').StyleSheet.hairlineWidth'
 }
 
 function normalizeValue(property, value) {
