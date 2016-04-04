@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-styles",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Auto-generates React StyleSheets from import statements of CSS files",
   "main": "lib/index.js",
   "author": "Jake Murzy <jake@murzy>",

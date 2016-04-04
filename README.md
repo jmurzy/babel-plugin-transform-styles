@@ -36,7 +36,7 @@ import styles from '../styles.css';
 will be transformed to
 
 ```js
-var styles = require('react-native').StyleSheet.create({
+var styles = StyleSheet.create({
   "container": {
     "flex": 1,
     "justifyContent": "center",
