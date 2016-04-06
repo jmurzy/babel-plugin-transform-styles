@@ -8,7 +8,15 @@ This [Babel](https://github.com/babel/babel) [transoformation](https://babeljs.i
 
 ## Example
 
-The following CSS file
+Once you clone the repo, you should be able to run the [example project](https://github.com/jmurzy/babel-plugin-transform-styles/tree/master/examples/Vanilla) as below.
+
+```shell
+- cd examples/Vanilla
+- npm install
+- npm run simulator
+```
+
+For example, given the following CSS file
 
 ```css
 .container {
