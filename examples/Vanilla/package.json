@@ -1,0 +1,16 @@
+{
+  "name": "Vanilla",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.23.0-rc1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-styles": "0.0.3",
+    "babel-preset-react-native": "^1.5.6"
+  }
+}
