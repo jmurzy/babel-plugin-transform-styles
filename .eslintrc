@@ -1,6 +1,9 @@
 {
-  "extends": "rackt",
+  "extends": "airbnb",
   "env": {
     "mocha": true
-  }
+  },
+  "rules": {
+    "no-continue": ["off"],
+  },
 }
